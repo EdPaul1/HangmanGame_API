@@ -129,7 +129,11 @@ python manage.py runserver
 This command will start the server, and you can access the Django app in your web browser by navigating to the provided URL (usually http://localhost:8000/).
 
 ## Start the Streamlit frontend
-Run:
+If Streamlit is not installed, you can install it using pip:
+```
+pip install streamlit
+```
+After the installation is done,Run the below command to start the client:
 ```
 streamlit run hangman_client.py
 ```
