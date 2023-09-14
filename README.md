@@ -10,7 +10,7 @@ This Django Rest Framework based API powers the frontend for a Hangman game. It 
   - [New Game](#new-game)
   - [Game State](#game-state)
   - [Guess](#guess)
-- [Hangman Game Repository Setup Guide]()
+- [Hangman Game Repository Setup Guide](#hangman-game-repository-setup-guide)
 - [Prerequisites](#prerequisites)
 - [Clone the Repository](#clone-the-repository)
 - [Set Up the Virtual Environment](#set-up-the-virtual-environment)
